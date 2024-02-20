@@ -1,7 +1,7 @@
 +++
 title = "Im Schatten der Bühne"
 date = "2024-02-20"
-draft = true
+draft = false
 pinned = false
 image = "whatsapp-bild-2024-02-20-um-13.59.31_c0dfc670.jpg"
 +++
