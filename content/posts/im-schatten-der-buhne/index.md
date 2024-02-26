@@ -7,7 +7,7 @@ image = "whatsapp-bild-2024-02-20-um-13.59.31_c0dfc670.jpg"
 +++
 {{<lead>}}
 
-Das Publikum starrt auf den Boden der Bühne. Er bewegt sich langsam nach oben und nimmt die ganze Kulisse mit. Nach wenigen Sekunden sind die künstlichen Schneeflocken die einzigen Überreste des eben noch dagewesenen Bühnenbildes. Während sich die Leute in den Sitzreihen- und Rängen auf die nächsten Momente vorbreiten, sind elf Techniker*innen hinter dem Schauspiel hochkonzentriert auf ihre Arbeit fokussiert.
+Das Publikum starrt auf den Boden der Bühne. Er bewegt sich langsam nach oben und nimmt die ganze Kulisse mit. Nach wenigen Sekunden sind die künstlichen Schneeflocken die einzigen Überreste des eben noch dagewesenen Bühnenbildes. Während die Leute in den Sitzreihen und Rängen auf die nächste Szene warten, sind elf Technikerinnen hinter dem Schauspiel hochkonzentriert auf ihre Arbeit fokussiert. 
 
 {{</lead>}}
 
