@@ -11,9 +11,11 @@ Paolo Rütti ist erster Bühnenmeister im Stadttheater Bern und kennt dieses wie
 
 {{</lead>}}
 
+Ladina Bähler und Anik Schranz
+
 ![Paolo Rütti unter den prunkvollen Kronleuchtern, deren Anblick er gewohnt ist.](img_4279.jpg)
 
-
+Die Loge im Stadttheater Bern- Kunstvoll und aufwändig gebaut. Auf dem Holzboden stehen kleine runde Tische und sauber geputzte Stühle, die mit rotem Samtstoff überzogen sind. Der edel gestaltete Bartisch ist um die Nachmittagszeit leer, doch am Abend servieren hier eine Handvoll Kellnerinnen den Besucherinnen Getränke und Snacks. Paolo Rütti tritt durch einen Hintereingang in die Loge ein und setzt sich nicht weit vom imposanten Wandbild an einen Tisch. Er trägt seine normale Arbeitskleidung. Jeans, ein blaues T-Shirt, darüber eine schwarze Jacke. An seinem Hals baumelt eine fein gestaltete Goldkette. Das Arbeitstelefon, das während des Interviews einmal klingelt, blinkt nervös aus seiner Jeanstasche. Mit seinen Mitarbeiterinnen managt der Bühnenmeister bei jeder Vorstellung die Arbeit, die es für solch aufwändige Projekte braucht, und das schon seit einigen Jahren. 
 
 ### Wie sind Sie auf den Beruf Bühnenmeister gekommen?
 
@@ -29,19 +31,25 @@ Es kann gar nichts passieren oder es kann ganz vieles passieren. Das Ganze hat s
 
 ### Wie schafft man es, die Stimmung so rüberzubringen, wie sie sein sollte?
 
-Das ist vor allem eine Frage des Lichts. Damit kann man sehr viele verschiedene Unterschiede rausholen. Das andere sind Effekte wie Schnee, Regen, Rauch, Trockeneis… schlussendlich ist das Licht aber ausschlaggebend. 
+> *«Das ist vor allem eine Frage des Lichts.» (Paolo Rütti)*
+
+Damit kann man sehr viele verschiedene Unterschiede rausholen. Das andere sind Effekte wie Schnee, Regen, Rauch, Trockeneis… schlussendlich ist das Licht aber ausschlaggebend. 
 
 ### Kommt es vor, dass es Konflikte oder Meinungsverschiedenheiten mit Darsteller\*innen oder Regisseur\*innen gibt, wegen verschiedenen Vorstellungen?
 
 Die Kunst hat ihre Vorstellungen und beim Prozess dorthin kann es schon Konflikte geben. Bevor ein Bühnenbild fertig gebaut ist, müssen Bühnenbildner und Regie ein Konzept erarbeiten. Dies wird eingereicht und dann gibt es eine Dimensions-Bauprobe. Dort wird also das erste Mal festgehalten, wie die Dimensionen der Bühne ungefähr sind. Als Bühnenmeister ist man auch bei der Konstruktionsbesprechung dabei mit Handwerkern, Schreinern und Metallbauern. Dort wird dann die beste Lösung gesucht und dann wird es gebaut. Natürlich können die Bühnenbildner immer noch intervenieren, aber eher bei kleineren Dingen wie die Farb-Nuancen. Es ist auch schon vorgekommen, dass die Regie mit dem fertigen Bühnenbild nicht zufrieden war. Das passiert aber nur selten, da man sich während des Prozesses immer wieder austauscht. Wenn etwas jedoch sicherheitstechnisch nicht umsetzbar ist, gibt es für uns keine Kompromisse.
 
-### Was machen sie und Ihr Team, wenn während der Vorstellung etwas schiefläuft?
+### Was machen Sie und Ihr Team, wenn während der Vorstellung etwas schiefläuft?
 
 Es kommt sehr darauf an. Wenn es etwas Gravierendes ist, dann wird sofort der Vorhang geschlossen. Sonst probiert man den Fehler so zu überspielen, dass es die Zuschauer nicht merken. Meistens passieren aber keine solchen gravierenden Fehler. Es kommt vor, dass die Schauspieler die Requisiten nicht an den richtigen Ort verschieben. Besonders wenn es mit dem Verlauf des Stücks in Abhängigkeit steht, kann es zu einem Problem werden. Das sind aber immer noch Dinge, die im besten Fall nicht ersichtlich sind für den Zuschauer. 
 
-### Was ist der Lieblingsteil eurer Arbeit?
+### Was ist ihr Lieblingsteil der Arbeit?
 
-Ferien \*lacht\*. Nein, natürlich ist es schön, wenn man nach langer Arbeit ein Stück auf die Bühne bringen kann und bei der Premiere alles gut läuft. Gleichzeitig ist das aber auch der anstrengendste Teil. Bei mir ist es so, dass ¾ meiner Arbeit aus Administration besteht. Der Rest ist bei mir ein eher kleinerer Teil, bei anderen Bühnenmeistern kann das aber auch anders aussehen. Aber im Mittelpunkt steht trotzdem der Bühnenbetrieb.
+Ferien \*lacht\*.
+
+> *«Nein, natürlich ist es schön, wenn man nach langer Arbeit ein Stück auf die Bühne bringen kann und bei der Premiere alles gut läuft.» (Paolo Rütti)*
+
+Gleichzeitig ist das aber auch der anstrengendste Teil. Bei mir ist es so, dass ¾ meiner Arbeit aus Administration besteht. Der Rest ist bei mir ein eher kleinerer Teil, bei anderen Bühnenmeistern kann das aber auch anders aussehen. Aber im Mittelpunkt steht trotzdem der Bühnenbetrieb.
 
 ### Glauben Sie, es besteht die Gefahr, dass der Beruf Bühnenbildner in Zukunft durch KI oder Roboter ersetzt wird?
 
